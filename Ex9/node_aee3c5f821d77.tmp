@@ -10,3 +10,7 @@ console.log(`o numero ${num[0]} e diferente do ${num[2]}` )
 for(var b = 0; b <= num.length; b++) {
     console.log(`a posiçao ${b} valores ${num[b]}`)
 }
+
+for(var c = 0; c <= num.length;) {
+    console.log(`a posiçao ${c} valores ${num[c]}`)
+}
